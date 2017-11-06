@@ -122,7 +122,7 @@ public class Hallway extends Room {
     	if(doorlocations.length == 4)
     		return "You see many entrances, one to the " + doorlocations[0] + ", the " + doorlocations[1] + ", the " + doorlocations[2] + ", and " + doorlocations[3] + ".";
     	return null;
-    	}
+    	} 
 }
     	
 

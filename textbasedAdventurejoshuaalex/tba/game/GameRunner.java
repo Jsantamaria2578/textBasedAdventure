@@ -51,7 +51,7 @@ public class GameRunner {
         gameUtilities gameUtilities = new gameUtilities();
         // Completely ignores player input and forwards the story
         Item playerbag = new Item("not a potato",true);
-        boolean gameOn = true;
+        boolean gameOn = true; 
         Human player1 = new Human("spud","doesntmatter", playerbag);
         Scanner in = new Scanner(System.in);
         System.out.println("Hello there, welcome to the start of your journey! Are you a boy or a girl?");

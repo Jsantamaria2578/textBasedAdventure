@@ -20,7 +20,7 @@ public class Board {
      */
     public void printMap()
     {
-
+ 
     	for(Hallway[][] floor:schoolMap) {
     		System.out.println("floorx");
     		for(Hallway[] row : floor)

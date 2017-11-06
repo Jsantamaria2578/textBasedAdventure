@@ -94,7 +94,7 @@ public class gameUtilities {
 			// letter
 			&& ((after.compareTo("a") < 0) || (after
 			.compareTo("z") > 0))) {
-			return psn;
+			return psn; 
 			}
 			
 			// The last position didn't work, so let's find

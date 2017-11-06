@@ -8,3 +8,4 @@ public class Item {
 		this.consumable = consumable;
 	}
 }
+ 

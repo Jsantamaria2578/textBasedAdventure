@@ -12,5 +12,5 @@ public class NPC extends Person {
 		this.description = description;
 		
 	}
-	
+	 
 }

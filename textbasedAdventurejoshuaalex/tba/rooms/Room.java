@@ -23,7 +23,7 @@ public abstract class Room {
         this.occupants = occupants;
         this.items = items;
         this.explored = false;
-    }
+    } 
 
     public  NPC getOccupants() {
         return occupants;
